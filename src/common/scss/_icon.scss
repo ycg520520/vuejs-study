@@ -1,0 +1,39 @@
+
+@font-face {font-family: "vueStudy";
+  src: url('common/fonts/sell-icon.eot?t=1480868135551'); /* IE9*/
+  src: url('common/fonts/sell-icon.eot?t=1480868135551#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('common/fonts/sell-icon.woff?t=1480868135551') format('woff'), /* chrome, firefox */
+  url('common/fonts/sell-icon.ttf?t=1480868135551') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('common/fonts/sell-icon.svg?t=1480868135551#vueStudy') format('svg'); /* iOS 4.1- */
+}
+
+.ift,[class^="ift-"]{
+  font-family:"vueStudy" !important;
+  font-style:normal;
+  font-weight: normal;
+  text-transform:none;
+  -webkit-font-smoothing: antialiased;
+  // -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ift-arrow_lift:before { content: "\e691"; }
+
+.ift-add_circle:before { content: "\e692"; }
+
+.ift-close:before { content: "\e693"; }
+
+.ift-check_circle:before { content: "\e694"; }
+
+.ift-favorite:before { content: "\e695"; }
+
+.ift-keyboard_arrow_right:before { content: "\e696"; }
+
+.ift-remove_circle_outline:before { content: "\e697"; }
+
+.ift-thumb_up:before { content: "\e698"; }
+
+.ift-thumb_down:before { content: "\e699"; }
+
+.ift-shopping_cart:before { content: "\e69a"; }
+

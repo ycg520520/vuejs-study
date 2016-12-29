@@ -1,0 +1,1025 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"totalCount"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"tot",
+				"totalPrice"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"pro",
+				"props\t(goods.vue)"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"box-s",
+				"box-sizing: 〔property〕"
+			],
+			[
+				"rel",
+				"relative〔value〕"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"comp",
+				"components\t(App.vue)"
+			],
+			[
+				"food",
+				"foodlist"
+			],
+			[
+				"hi",
+				"height1"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"cont",
+				"continue〔keyword〕"
+			],
+			[
+				"cu",
+				"currentIndex"
+			],
+			[
+				"hei",
+				"height2"
+			],
+			[
+				"scroll",
+				"scrollY"
+			],
+			[
+				"len",
+				"length\t(header.vue)"
+			],
+			[
+				"foo",
+				"foodlist"
+			],
+			[
+				"des",
+				"desc"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"con",
+				"content\t(_mixin.scss)"
+			],
+			[
+				"border",
+				"border-1px"
+			],
+			[
+				"desc",
+				"description\t(header.vue)"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"class",
+				"classMap"
+			],
+			[
+				"sup",
+				"supports"
+			],
+			[
+				"CL",
+				"CLS_OFF"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"detai",
+				"detail-close"
+			],
+			[
+				"detail",
+				"detailShow"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"su",
+				"supports"
+			],
+			[
+				"bu",
+				"bulletin-text"
+			],
+			[
+				"no",
+				"nowrap〔value〕"
+			],
+			[
+				"wi-s",
+				"white-space: 〔property〕"
+			],
+			[
+				"lh",
+				"line-height: 〔property〕"
+			],
+			[
+				"po",
+				"position\t(_mixin.scss)"
+			],
+			[
+				"supp",
+				"support-count"
+			],
+			[
+				"cls",
+				"classMap"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"inl",
+				"inline-block〔value〕"
+			],
+			[
+				"sel",
+				"seller"
+			],
+			[
+				"im",
+				"import\t(main.js)"
+			],
+			[
+				"wi",
+				"width\t(App.vue)"
+			],
+			[
+				"rout",
+				"router"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"spac",
+				"space3x4.gif\t(index.html)"
+			],
+			[
+				"data",
+				"data-src\t(index.html)"
+			],
+			[
+				"padding",
+				"paddingTop\t(common.js)"
+			],
+			[
+				"font-s",
+				"font-style\t(classify.scss)"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"border-r",
+				"border-radius\t(index.scss)"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"last",
+				"last-child\t(common.css)"
+			],
+			[
+				"col",
+				"colors"
+			],
+			[
+				"mous",
+				"mouseleave"
+			],
+			[
+				"padd",
+				"padding-bottom\t(details.scss)"
+			],
+			[
+				"pa",
+				"padding-left\t(details.scss)"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"war",
+				"warp-main"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"wa",
+				"warp-main\t(comic_detail.html)"
+			],
+			[
+				"mt",
+				"mt16\t(index.html)"
+			],
+			[
+				"fw",
+				"fw:n\tfont-weight:normal"
+			],
+			[
+				"tr",
+				"triangle"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"pt",
+				"padding-top"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"ml",
+				"margin-left"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"comi",
+				"comic-cover"
+			],
+			[
+				"space",
+				"space.gif"
+			],
+			[
+				"char",
+				"charpter\t(index.html)"
+			],
+			[
+				"remo",
+				"remove〔function〕"
+			],
+			[
+				"la",
+				"lazyload\t(index.html)"
+			],
+			[
+				"op",
+				"opacity(50\t(_header.scss)"
+			],
+			[
+				"ift",
+				"ift-next\t(index.html)"
+			],
+			[
+				"nor",
+				"no-repeat\t(index.css)"
+			],
+			[
+				"al",
+				"align-left"
+			],
+			[
+				"mr",
+				"margin-right"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"setTi",
+				"setTimeout〔function〕"
+			],
+			[
+				"load",
+				"loading\t(base.js)"
+			],
+			[
+				"err",
+				"error\t(base.js)"
+			],
+			[
+				"sli",
+				"siblings〔function〕"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"th",
+				"thumbnail\t(index.html)"
+			],
+			[
+				"dar",
+				"dark\t(_footer.scss)"
+			],
+			[
+				"boo",
+				"border-bottom\t(_footer.scss)"
+			],
+			[
+				"tran",
+				"transition\t(_footer.scss)"
+			],
+			[
+				"light",
+				"lighten\t(_footer.scss)"
+			],
+			[
+				"dat",
+				"data-src"
+			],
+			[
+				"spa",
+				"space3x4"
+			],
+			[
+				"img",
+				"img\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ite",
+				"itemW"
+			],
+			[
+				"ou",
+				"outerWidth〔function〕"
+			],
+			[
+				"clas",
+				"classify"
+			],
+			[
+				"cle",
+				"clearfix\t(header.html)"
+			],
+			[
+				"wor",
+				"word-break"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"clea",
+				"clearfix\t(threepart.html)"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"border-",
+				"border-bottom\t(_tabs.scss)"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"ovh",
+				"ov:h\toverflow:hidden"
+			],
+			[
+				"imag",
+				"images"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vue",
+				"Snippet: Vue component"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"scs",
+				"Set Syntax: CSS"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"pre",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"set sys",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"preferences:br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"preferences",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"pr",
+				"Preferences: Settings – Syntax Specific"
+			]
+		],
+		"width": 565.0
+	},
+	"console":
+	{
+		"height": 345.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yangchaoguo/Documents/website/vueStudy",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/common",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/common/scss"
+	],
+	"file_history":
+	[
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/goods/goods.vue",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/main.js",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/shopcart/shopcart.vue",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/cartcontrol/cartcontrol.vue",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/App.vue",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/common/scss/_mixin.scss",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/header/header.vue",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/ratings/ratings.vue",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/seller/seller.vue",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/star/star.vue",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/common/scss/_icon.scss",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/common/scss/_base.scss",
+		"/usr/local/etc/nginx/nginx.conf",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/common/fonts/iconfont.css",
+		"/Users/yangchaoguo/Documents/website/vueStudy/data.json",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/common/scss/_public.scss",
+		"/Users/yangchaoguo/Documents/website/vueStudy/package.json",
+		"/Users/yangchaoguo/Documents/website/vueStudy/.eslintrc.js",
+		"/Users/yangchaoguo/Documents/website/vueStudy/build/webpack.base.conf.js",
+		"/Users/yangchaoguo/Documents/website/webpack-init/config/webpack.default.js",
+		"/Users/yangchaoguo/Documents/website/webpack-init/config/webpack.dev.js",
+		"/Users/yangchaoguo/Documents/website/vueStudy/build/webpack.prod.conf.js",
+		"/Users/yangchaoguo/Documents/website/vueStudy/index.html",
+		"/Users/yangchaoguo/Documents/website/vueStudy/README.md",
+		"/Users/yangchaoguo/Documents/website/vueStudy/build/dev-server.js",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/common/sass/icon.scss",
+		"/Users/yangchaoguo/Downloads/x0hp5p/src/common/fonts/iconfont.css",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/header/invoice_2@3x.png",
+		"/Users/yangchaoguo/Downloads/x0hp5p/prod.server.js",
+		"/Users/yangchaoguo/Downloads/x0hp5p/README.md",
+		"/Users/yangchaoguo/Documents/website/zymk/.gitignore",
+		"/Users/yangchaoguo/Documents/website/zymk/README.md",
+		"/Users/yangchaoguo/Documents/website/zymk/src/app/comic_read.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/read.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/js/models/base.js",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/js/plugins/jquery.lazyload.js",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/_config.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/app/index.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/js/models/common.js",
+		"/Users/yangchaoguo/Documents/website/zymk/src/app/comic_detail.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/classify.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/model/_box.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/model/_tabs.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/model/_header.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/fonts/iconfont.css",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/js/read.js",
+		"/Users/yangchaoguo/Documents/website/zymk/src/app/public/footer.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/common.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/app/404.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/app/public/header.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/model/_search.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/fonts/_fonts.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/details.scss",
+		"/Users/yangchaoguo/Documents/website/maigouwang/src/static/sass/filter.scss",
+		"/Users/yangchaoguo/Documents/website/maigouwang/src/app/product/filter.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/js/details.js",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/model/_pages.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/dist/static/css/common.css",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/model/_list.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/fonts/demo_fontclass.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/model/_comments.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/model/_unit.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/core/mixin/_ellipsis.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/dist/static/css/details.css",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/js/index.js",
+		"/Users/yangchaoguo/Documents/website/maigouwang/dist/app/product/details.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/model/_crumb.scss",
+		"/Users/yangchaoguo/Documents/website/maigouwang/dist/app/index.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/index.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/dist/static/js/index.js",
+		"/Users/yangchaoguo/Documents/website/zymk/gulpfile.js",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/images/icon/zymk.svg",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/images/icon/more.svg",
+		"/Users/yangchaoguo/Documents/website/zymk/dist/static/css/index.css",
+		"/Users/yangchaoguo/Documents/website/zymk/webpack.config.js",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/js/plugins/jquery.ps.js",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/model/_rank.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/model/_footer.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/model/_grid.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/core/mixin/_grid.scss",
+		"/Users/yangchaoguo/Documents/website/maigouwang/src/static/sass/core/mixin/_grid.scss",
+		"/Users/yangchaoguo/Documents/website/maigouwang/src/static/sass/model/_list.scss",
+		"/Users/yangchaoguo/Downloads/public.js",
+		"/Users/yangchaoguo/Documents/website/zymk/dist/app/index.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/app/public/threepart.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/app/public/link.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/model/_links.scss",
+		"/Users/yangchaoguo/Documents/website/maigouwang/src/static/js/plugins/layer/skin/layer.css",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/vendor/_layer.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/js/plugins/jquery.cookie.js",
+		"/Users/yangchaoguo/Documents/website/maigouwang/webpack.config.js",
+		"/Users/yangchaoguo/Documents/website/zymk/dist/static/js/common.js",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/js/plugins/jquery.easing.js",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/js/plugins/jquery.js",
+		"/Users/yangchaoguo/Documents/website/maigouwang/src/static/js/models/common.js",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/js/plugins/swiper.js",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/js/plugins/jquery.placeholder.min.js",
+		"/Users/yangchaoguo/Documents/website/zymk/.eslintrc.js",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/core/mixin/_float.scss",
+		"/Users/yangchaoguo/Documents/website/maigouwang/src/static/sass/base.scss",
+		"/Users/yangchaoguo/Documents/website/maigouwang/src/static/sass/index.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/model/_public.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/vendor/_swiper.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/vendor/_select.scss",
+		"/Users/yangchaoguo/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/yangchaoguo/Documents/website/zymk/.editorconfig",
+		"/Users/yangchaoguo/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/yangchaoguo/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/yangchaoguo/Documents/soft/sublime/sublime插件清单.txt",
+		"/Users/yangchaoguo/Documents/website/zymk/src/app/public/head.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/base.scss",
+		"/Users/yangchaoguo/Documents/website/zymk/src/app/public/browser.html",
+		"/Users/yangchaoguo/Documents/website/maigouwang/gulpfile.js",
+		"/Users/yangchaoguo/Documents/website/maigouwang/src/static/js/index.js",
+		"/Users/yangchaoguo/Documents/website/maigouwang/src/static/js/models/mouseAnInfo.js",
+		"/Users/yangchaoguo/Documents/website/zymk/dist/static/js/filter.js",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/js/filter.js",
+		"/Users/yangchaoguo/Documents/website/zymk/eslintrc.js",
+		"/Users/yangchaoguo/Documents/website/zymk/src/app/index2.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/app/6.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/app/index3.html",
+		"/Users/yangchaoguo/Documents/website/zymk/dist/app/index3.html",
+		"/Users/yangchaoguo/Documents/website/maigouwang/src/static/sass/common.scss",
+		"/Users/yangchaoguo/Documents/website/maigouwang/package.json",
+		"/Users/yangchaoguo/Documents/website/zymk/dist/app/404.html",
+		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/order.scss",
+		"/Users/yangchaoguo/Documents/website/vueStudy/.eslintignore",
+		"/Users/yangchaoguo/Documents/website/zymk/src/app/usercenter/add_dog_info.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 163.0,
+		"where_history":
+		[
+			"/Users/yangchaoguo/Documents/website/zymk/src/static/sass",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"catcontrol",
+			"shopcart",
+			"1px",
+			"inclu",
+			"decrease",
+			"1",
+			"bg-image",
+			"@2x.png",
+			"36",
+			"15px",
+			"48",
+			"20px",
+			"margin",
+			"common",
+			"1.5",
+			":to",
+			"./fonts/sell",
+			"iconfont",
+			"upload",
+			"   ",
+			"     ",
+			"      ",
+			"     ",
+			"<span class=\"fr-charpter\">",
+			"<!-- <a href=\"#\"><span",
+			"<i class=\"close\">&times;</i>",
+			"attr-other-val",
+			"dt",
+			"    ",
+			"全部\n              少男\n              少女\n              青年",
+			"    ",
+			" ",
+			"新更\n        人气\n        打赏\n        评分\n        月票",
+			"e623",
+			"<li>",
+			"update-list",
+			"box2",
+			"auxiliary",
+			"comments-hd",
+			"comments-",
+			"from",
+			" class=\"hd\"",
+			"class=\"bd\"",
+			"&>.",
+			"&>.hd",
+			"comments",
+			" class=\"bd\"",
+			"class=\"hd\"",
+			"tags-",
+			"fans粉丝排行",
+			"<a href=\"\" class=\"more\"><i class=\"ift-more\"></i><span class=\"txt\">更多</span></a>",
+			"<a href=\"\" class=\"more\">",
+			"\n        ",
+			";\n",
+			")\n",
+			"i",
+			"star",
+			"9b9bd5",
+			"'#",
+			"src=\"images/space.gif\"",
+			"data-src=\"images/comments",
+			"<li>            <span",
+			"<li>",
+			"href=\"\"",
+			"bd",
+			"div",
+			"href=\"\"",
+			"</li>",
+			"<li>",
+			"score",
+			"1亿4521万",
+			"laz",
+			"belowthefold",
+			"slide",
+			"<img src=\"static/images/space3x4.gif\"",
+			"<img src=\"static/images/space3x4.gif\" data-src=\"",
+			"class=\"swiper-slide\"",
+			" data-src",
+			"show",
+			"101",
+			"<div class=\"row mt24\"#>",
+			"<span class=\"more\"><i class=\"ift-more\"></i></span>",
+			"<span class=\"charpter\">232话</span>",
+			"<h3 class=\"title\">铁将纵横2012</h3>",
+			"<h3>铁将纵横2012</h3>",
+			"%;\n",
+			"supportCss",
+			"<h3 class=\"title\"><a href=\"#\">斗罗大陆</a></h3>",
+			"</i>\n                     <h3 class=\"title\"><a href=\"#\">斗罗大陆</a></h3>",
+			"<h3 class=\"title\"><a href=\"#\">斗罗大陆</a></h3>",
+			"{\n",
+			"<h3 class=\"title\">斗罗大陆</h3>",
+			"<strong>3398962元</strong>",
+			"storng",
+			"<div class=\"reward-num\">共被打赏\n                       <storng>3398962元</storng>\n                     </div>",
+			"本月月票",
+			"<a href=\"\">",
+			"<a href=\"#\"><a href=\"\">",
+			"</a>>",
+			"<div class=\"thumbnail\">",
+			"<li class=\"item\"><a href=\"\">",
+			"一五七社&文子",
+			"被打赏",
+			"rank-list-bd",
+			"rank-list-hd",
+			"<strong>1</strong>",
+			"})\n",
+			">\n",
+			"grid_unit_base",
+			"漫画家",
+			"更新记录",
+			";\n",
+			"%'\n",
+			"item swiper-slide",
+			"slide",
+			"horizontal",
+			"   ",
+			"    ",
+			"Swip",
+			"<div class=\"score\">7.4</div>",
+			"<span class=\"score\">.*?</span>",
+			"<div class=\"score\">.*?</div>",
+			"lipsum2",
+			"();",
+			"word",
+			"source",
+			";\n",
+			"pro-list"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<span class=\"score\">7.4</span>",
+			"<div class=\"score\">7.4</div>",
+			"首页\n      分类\n      新番\n      排行\n      更新\n      名家\n      专题\n      书单\n      漫画圈",
+			"$1",
+			"157.240.0.17"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/yangchaoguo/Documents/website/vueStudy"
+		},
+		{
+			"path": "/Users/yangchaoguo/Documents/website/webpack-init"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"font.sc",
+				"vueStudy/src/common/fonts/iconfont.css"
+			],
+			[
+				"mixin.c",
+				"vueStudy/src/common/scss/_mixin.scss"
+			],
+			[
+				"mixin.s",
+				"vueStudy/src/common/scss/_mixin.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
