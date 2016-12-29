@@ -1,6 +1,6 @@
 <template>
   <div class="cartcontrol">
-    <div class="cart-decrease" v-show="food.count>0"><i class="ift-remove_circle_outline"></i></div>
+    <div class="cart-decrease" v-show="food.count>0" @click="decreaseCart" transition=""><i class="ift-remove_circle_outline"></i></div>
     <div class="cart-count" v-show="food.count>0">{{food.count}}</div>
     <div class="cart-add" @click="addCart"><i class="ift-add_circle"></i></div>
   </div>
@@ -20,11 +20,17 @@ export default {
         return;
       }
       if (!this.food.count) {
-        this.food.count = 1;
-        console.log(this.food);
         Vue.set(this.food, 'count', 1);
       } else {
         this.food.count++;
+      }
+    },
+    decreaseCart(event) {
+      if (!event._constructed) {
+        return;
+      }
+      if (this.food.count) {
+        this.food.count--;
       }
     }
   }
@@ -48,9 +54,10 @@ export default {
       display: inline-block;
       font-size: 12px;
       width: 12px;
-      padding-top: 6px;
+      padding-top: 4px;
       text-align: center;
       vertical-align: middle;
+      color: rgb(147,153,159);
     }
     .cart-add{
     }

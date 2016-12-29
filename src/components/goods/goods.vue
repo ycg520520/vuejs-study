@@ -194,7 +194,7 @@ export default {
     .foods-warper{
       flex: 1;
       // overflow:auto;
-      overflow: auto;
+      // overflow: auto;
       .title{
         padding-left: 12px;
         height: 26px;
