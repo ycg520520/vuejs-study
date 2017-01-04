@@ -1,8 +1,12 @@
 <template>
   <div class="cartcontrol">
-    <div class="cart-decrease" v-show="food.count>0" @click="decreaseCart" transition=""><i class="ift-remove_circle_outline"></i></div>
+    <transition name="move">
+    <div class="cart-decrease" v-show="food.count>0" @click="decreaseCart">
+      <i class="ift-remove_circle_outline inner"></i>
+    </div>
+    </transition>
     <div class="cart-count" v-show="food.count>0">{{food.count}}</div>
-    <div class="cart-add" @click="addCart"><i class="ift-add_circle"></i></div>
+    <div class="cart-add" @click="addCart"><i class="ift-add_circle inner"></i></div>
   </div>
 </template>
 
@@ -24,6 +28,7 @@ export default {
       } else {
         this.food.count++;
       }
+      this.$emit('cart-add', event.target);
     },
     decreaseCart(event) {
       if (!event._constructed) {
@@ -44,11 +49,31 @@ export default {
     .cart-decrease,.cart-add{
       padding: 6px;
       display: inline-block;
-      font-size: 24px;
-      line-height: 24px;
-      vertical-align: middle;
-      color: #00a0dc;
-      
+      transition: all .4s linear;
+      .inner{
+        display: inline-block;
+        font-size: 24px;
+        line-height: 24px;
+        vertical-align: middle;
+        color: #00a0dc;
+        transition: all .4s linear;
+      }
+    }
+    .cart-decrease{
+      &.move-transition{
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+        .inner{
+          transform: rotate(0);
+        }
+      }
+      &.move-enter, &.move-leave{
+        opacity: 0;
+        transform: translate3d(24px, 0, 0);
+        .inner{
+          transform: rotate(180deg);
+        }
+      }
     }
     .cart-count{
       display: inline-block;
