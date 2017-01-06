@@ -10,7 +10,6 @@
         </li>
       </ul>
     </div>
-
     <div class="foods-warper" ref="foodsWrapper">
       <ul>
         <li v-for="item in goods" class="food-list" ref="food-list-hook">
@@ -32,7 +31,7 @@
                   <span v-if="food.oldPrice" class="old">￥{{food.oldPrice}}</span>
                 </div>
                 <div class="cartcontrol-warper">
-                  <cartcontrol @cart-add="_drap" :food="food"></cartcontrol>
+                  <cartcontrol @cart-add="drap" :food="food"></cartcontrol>
                 </div>
               </div>
             </li>
@@ -132,8 +131,10 @@ export default {
         this.listHeight.push(height);
       }
     },
-    _drap(target) {
-      this.$refs.shopcart.drop(target);
+    drap(target) {
+      this.$nextTick(() => {
+        this.$refs.shopcart.drop(target);
+      });
     }
   },
   components: {
@@ -149,7 +150,7 @@ export default {
     display: flex;
     position: absolute;
     width: 100%;
-    top: 174px;
+    top: 176px;
     bottom: 46px;
     overflow: hidden;
     .menu-warper{
@@ -161,10 +162,11 @@ export default {
         width: 100%;
         height: 54px;
         line-height: 14px;
+        @include border-1px(rgba(7,17,27,0.1));
         &.active{
           position: relative;
           z-index: 10;
-          margin-top: -1px;
+          // margin-top: -1px;
           font-weight: 700;
           background-color: #fff;
           .text{
@@ -201,7 +203,6 @@ export default {
           display: table-cell;
           padding: 0 10px;
           vertical-align: middle;
-          @include border-1px(rgba(7,17,27,0.1));
         }
       }
     }

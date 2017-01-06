@@ -41,6 +41,8 @@ export default {
   @import 'common/scss/public';
   @import 'common/scss/mixin';
   .tabs{
+    position: relative;
+    z-index: 1;
     display: flex;
     width: 100%;
     height: 40px;
