@@ -27,7 +27,7 @@
      <i class="ift ift-keyboard_arrow_right"></i>
    </div>
    <div class="background">
-     <img :src="seller.avatar" width="100%" height="100%">
+     <img :style="{background:'url('+seller.avatar+') center center / cover no-repeat'}" width="100%" height="100%">
    </div>
    <transition name="fade"  mode="out-in">
    <div class="detail" v-show="detailShow">

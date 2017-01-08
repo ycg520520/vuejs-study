@@ -36,7 +36,7 @@
                 <span class="name">{{food.name}}</span>
                 <span class="price">￥{{food.price * food.count}}</span>
                 <div class="carcontrol-wrapper">
-                  <cartcontrol :food="food"></cartcontrol>
+                  <cartcontrol @cart-add="drop" :food="food"></cartcontrol>
                 </div>
               </li>
             </ul>
@@ -322,8 +322,6 @@ export default {
         bottom: 22px;
         z-index: 200;
         transition: all 0.4s cubic-bezier(0.49, -0.29, 0.75, 0.41);
-        &.drop-transition{
-        }
         .inner{
           width: 16px;
           height: 16px;

@@ -15,7 +15,7 @@
         <li v-for="item in goods" class="food-list" ref="food-list-hook">
           <h2 class="title">{{item.name}}</h2>
           <ul>
-            <li v-for="food in item.foods" class="food-item border-1px">
+            <li @click="selectFood(food, $event)" v-for="food in item.foods" class="food-item border-1px">
               <div class="icon">
                 <img width="57" :src="food.icon">
               </div>
@@ -31,7 +31,7 @@
                   <span v-if="food.oldPrice" class="old">￥{{food.oldPrice}}</span>
                 </div>
                 <div class="cartcontrol-warper">
-                  <cartcontrol @cart-add="drap" :food="food"></cartcontrol>
+                  <cartcontrol @cart-add="drop" :food="food"></cartcontrol>
                 </div>
               </div>
             </li>
@@ -40,6 +40,7 @@
       </ul>
     </div>
     <shopcart ref="shopcart" :select-foods="selectFoods" :delivery-price="seller.deliveryPrice" :min-price="seller.minPrice"></shopcart>
+    <food :food="selectedFood" ref="food"></food>
   </div>
 </template>
 
@@ -47,7 +48,7 @@
 import BScroll from 'better-scroll';
 import shopcart from 'components/shopcart/shopcart';
 import cartcontrol from 'components/cartcontrol/cartcontrol';
-
+import food from 'components/food/food';
 const ERR_OK = 0;
 export default {
   props: {
@@ -59,7 +60,8 @@ export default {
     return {
       goods: [],
       listHeight: [],
-      scrollY: 0
+      scrollY: 0,
+      selectedFood: {}
     };
   },
   computed: {
@@ -110,6 +112,13 @@ export default {
       let el = foodlist[index];
       this.foodScroll.scrollToElement(el, 300);
     },
+    selectFood(food, event) {
+      if (!event._constructed) {
+        return;
+      }
+      this.selectedFood = food;
+      this.$refs.food.show();
+    },
     _initScroll() {
       this.menuScroll = new BScroll(this.$refs.menuWrapper, {
         click: true
@@ -131,7 +140,7 @@ export default {
         this.listHeight.push(height);
       }
     },
-    drap(target) {
+    drop(target) {
       this.$nextTick(() => {
         this.$refs.shopcart.drop(target);
       });
@@ -139,7 +148,8 @@ export default {
   },
   components: {
     shopcart,
-    cartcontrol
+    cartcontrol,
+    food
   }
 };
 </script>
@@ -269,7 +279,7 @@ export default {
             .old{
               text-decoration: line-through;
               font-size: 10px;
-              color: rgb(7,17,27);
+              color: #93999f;
             }
           }
           .cartcontrol-warper{
@@ -281,5 +291,4 @@ export default {
       }
     }
   }
-
 </style>
