@@ -29,7 +29,7 @@ export default {
         this.food.count++;
       }
 
-      this.$emit('cart-add', event.target);
+      window.globalVue.$emit('cart-add', event.target);
     },
     decreaseCart(event) {
       if (!event._constructed) {

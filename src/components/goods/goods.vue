@@ -31,7 +31,7 @@
                   <span v-if="food.oldPrice" class="old">￥{{food.oldPrice}}</span>
                 </div>
                 <div class="cartcontrol-warper">
-                  <cartcontrol @cart-add="drop" :food="food"></cartcontrol>
+                  <cartcontrol :food="food"></cartcontrol>
                 </div>
               </div>
             </li>

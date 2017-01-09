@@ -60,13 +60,13 @@ export default {
       if (!event._constructed) {
         return;
       }
-      this.$emit('ratingselect-select', type);
+      window.globalVue.$emit('ratingselect-select', type);
     },
     toggleContent(event) {
       if (!event._constructed) {
         return;
       }
-      this.$emit('content-toggle', !this.onlyContent);
+      window.globalVue.$emit('content-toggle', !this.onlyContent);
     }
   }
 };

@@ -36,7 +36,7 @@
                 <span class="name">{{food.name}}</span>
                 <span class="price">￥{{food.price * food.count}}</span>
                 <div class="carcontrol-wrapper">
-                  <cartcontrol @cart-add="drop" :food="food"></cartcontrol>
+                  <cartcontrol :food="food"></cartcontrol>
                 </div>
               </li>
             </ul>
@@ -83,6 +83,15 @@ export default {
       ],
       fold: true
     };
+  },
+  created() {
+    console.log(window.globalVue, '---');
+    this.$nextTick(() => {
+      console.log(window.globalVue, '---');
+      window.globalVue.$on('cart-add', (el) => {
+        this.drop(el);
+      });
+    });
   },
   computed: {
     totalPrice() {

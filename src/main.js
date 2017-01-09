@@ -19,4 +19,4 @@ const router = new VueRouter({
   ]
 });
 
-new Vue({router, render: f => f(App)}).$mount('#app');
+window.globalVue = new Vue({router, render: f => f(App)}).$mount('#app');

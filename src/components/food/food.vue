@@ -19,7 +19,7 @@
             <span class="old" v-show="food.oldPrice">￥{{food.oldPrice}}</span>
           </div>
           <div class="cartcontrol-warper">
-            <cartcontrol @cart-add="drop" :food="food"></cartcontrol>
+            <cartcontrol :food="food"></cartcontrol>
           </div>
           <transition name="fade">
             <div class="buy" v-show="!food.count || food.count === 0" @click.stop.prevent="addFirst">加入购物车</div>
@@ -29,11 +29,11 @@
         <div class="info" v-show="food.info">
           <h2 class="title">商品信息</h2>
           <div class="text" >{{food.info}}</div>
+          <split></split>
         </div>
-        <split></split>
         <div class="rating">
           <h2 class="title">商品评价</h2>
-          <ratingselect :selectType="selectType"  :onlyContent="onlyContent" :desc="desc" :ratings="food.ratings" @ratingselect-select="selectTypeFn" @content-toggle="onlyContentFn"></ratingselect>
+          <ratingselect :selectType="selectType" :onlyContent="onlyContent" :desc="desc" :ratings="food.ratings"></ratingselect>
           <div class="rating-warper">
             <ul v-show="food.ratings">
               <li v-show="needShow(rating.rateType, rating.text)" v-for="rating in food.ratings" class="rating-item">
@@ -82,8 +82,13 @@ export default {
     };
   },
   created() {
-    this.$on('cart-add', (el) => {
-      this.drop(el);
+    this.$nextTick(() => {
+      window.globalVue.$on('ratingselect-select', (type) => {
+        this.selectTypeFn(type);
+      });
+      window.globalVue.$on('content-toggle', (onlyContent) => {
+        this.onlyContentFn(onlyContent);
+      });
     });
   },
   methods: {
@@ -108,13 +113,8 @@ export default {
       if (!event._constructed) {
         return;
       }
-      this.$emit('cart-add', event.target);
+      window.globalVue.$emit('cart-add', event.target);
       Vue.set(this.food, 'count', 1);
-    },
-    drop(target) {
-      this.$nextTick(() => {
-        this.$parent.$refs.shopcart.drop(target);
-      });
     },
     selectTypeFn(type) {
       this.selectType = type;
