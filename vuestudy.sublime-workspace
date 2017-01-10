@@ -4,28 +4,152 @@
 		"selected_items":
 		[
 			[
-				"con",
-				"console"
+				"v",
+				"va\tvertical-align"
 			],
 			[
-				"na",
-				"name\t(goods.vue)"
+				"sco",
+				"score-warper"
 			],
 			[
-				"inner",
-				"inner-hook"
+				"com",
+				"components\t(food.vue)"
+			],
+			[
+				"pro",
+				"props\t(food.vue)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ov",
+				"overview"
 			],
 			[
 				"len",
 				"length"
 			],
 			[
-				"cons",
-				"console\t(goods.vue)"
+				"form",
+				"formatDate\t(food.vue)"
+			],
+			[
+				"de",
+				"default\t(food.vue)"
 			],
 			[
 				"ta",
-				"target\t(goods.vue)"
+				"ta\ttext-align"
+			],
+			[
+				"if",
+				"ift-thumb_up"
+			],
+			[
+				"rateT",
+				"rateType\t(ratingselect.vue)"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"con",
+				"content\t(food.vue)"
+			],
+			[
+				"border",
+				"border-bottom\t(shopcart.vue)"
+			],
+			[
+				"inlin",
+				"inline-block〔value〕"
+			],
+			[
+				"rat",
+				"rating-type"
+			],
+			[
+				"ra",
+				"ratings"
+			],
+			[
+				"sel",
+				"selectType"
+			],
+			[
+				"pos",
+				"positive"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"ce",
+				"created\t(goods.vue)"
+			],
+			[
+				"cart",
+				"cart-add"
+			],
+			[
+				"car",
+				"cartcontrol-warper"
+			],
+			[
+				"pb",
+				"padding-bottom: 〔property〕"
+			],
+			[
+				"image",
+				"image-header"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"sele",
+				"selectFoods"
+			],
+			[
+				"min",
+				"minPrice"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"sho",
+				"shopcart-list"
+			],
+			[
+				"inner",
+				"inner-hook"
+			],
+			[
+				"cons",
+				"console\t(goods.vue)"
 			],
 			[
 				"_",
@@ -52,28 +176,12 @@
 				"totalPrice"
 			],
 			[
-				"de",
-				"default"
-			],
-			[
-				"pro",
-				"props\t(goods.vue)"
-			],
-			[
 				"pr",
 				"price"
 			],
 			[
 				"box-s",
 				"box-sizing: 〔property〕"
-			],
-			[
-				"rel",
-				"relative〔value〕"
-			],
-			[
-				"com",
-				"components"
 			],
 			[
 				"comp",
@@ -84,16 +192,8 @@
 				"foodlist"
 			],
 			[
-				"hi",
-				"height1"
-			],
-			[
 				"cont",
 				"continue〔keyword〕"
-			],
-			[
-				"cu",
-				"currentIndex"
 			],
 			[
 				"hei",
@@ -120,10 +220,6 @@
 				"flex"
 			],
 			[
-				"border",
-				"border-1px"
-			],
-			[
 				"desc",
 				"description\t(header.vue)"
 			],
@@ -148,10 +244,6 @@
 				"CLS_OFF"
 			],
 			[
-				"sc",
-				"score"
-			],
-			[
 				"tex",
 				"text-align"
 			],
@@ -166,10 +258,6 @@
 			[
 				"le",
 				"left"
-			],
-			[
-				"ov",
-				"overflow"
 			],
 			[
 				"bac",
@@ -220,10 +308,6 @@
 				"inline-block〔value〕"
 			],
 			[
-				"sel",
-				"seller"
-			],
-			[
 				"im",
 				"import\t(main.js)"
 			],
@@ -234,10 +318,6 @@
 			[
 				"rout",
 				"router"
-			],
-			[
-				"wid",
-				"width"
 			],
 			[
 				"spac",
@@ -420,10 +500,6 @@
 				"border-bottom\t(_footer.scss)"
 			],
 			[
-				"tran",
-				"transition\t(_footer.scss)"
-			],
-			[
 				"light",
 				"lighten\t(_footer.scss)"
 			],
@@ -438,98 +514,11 @@
 			[
 				"img",
 				"img\tTag"
-			],
-			[
-				"fun",
-				"function"
-			],
-			[
-				"margin",
-				"margin-right"
-			],
-			[
-				"pos",
-				"position"
-			],
-			[
-				"ite",
-				"itemW"
-			],
-			[
-				"ou",
-				"outerWidth〔function〕"
-			],
-			[
-				"clas",
-				"classify"
-			],
-			[
-				"cle",
-				"clearfix\t(header.html)"
-			],
-			[
-				"wor",
-				"word-break"
-			],
-			[
-				"sta",
-				"static"
-			],
-			[
-				"clea",
-				"clearfix\t(threepart.html)"
-			],
-			[
-				"j",
-				"jQuery"
-			],
-			[
-				"border-",
-				"border-bottom\t(_tabs.scss)"
-			],
-			[
-				"un",
-				"undefined"
-			],
-			[
-				"ovh",
-				"ov:h\toverflow:hidden"
-			],
-			[
-				"imag",
-				"images"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "src/components/goods/goods.vue",
-			"settings":
-			{
-				"buffer_size": 7331,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/components/cartcontrol/cartcontrol.vue",
-			"settings":
-			{
-				"buffer_size": 1950,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/components/shopcart/shopcart.vue",
-			"settings":
-			{
-				"buffer_size": 6894,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -631,7 +620,7 @@
 				"Preferences: Settings – Syntax Specific"
 			]
 		],
-		"width": 565.0
+		"width": 576.0
 	},
 	"console":
 	{
@@ -653,28 +642,33 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/yangchaoguo/Documents/website/vueStudy",
 		"/Users/yangchaoguo/Documents/website/vueStudy/src",
-		"/Users/yangchaoguo/Documents/website/vueStudy/src/components",
-		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/cartcontrol",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/common",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/header",
 		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/shopcart"
 	],
 	"file_history":
 	[
-		"/Users/yangchaoguo/Documents/website/vueStudy/src/main.js",
-		"/Users/yangchaoguo/Documents/website/vueStudy/src/App.vue",
 		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/cartcontrol/cartcontrol.vue",
-		"/Users/yangchaoguo/Documents/website/vueStudy/data.json",
-		"/Users/yangchaoguo/Documents/website/vueStudy/.gitignore",
 		"/private/etc/hosts",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/ratings/ratings.vue",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/header/header.vue",
 		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/goods/goods.vue",
 		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/shopcart/shopcart.vue",
-		"/Users/yangchaoguo/Documents/website/vueStudy/src/common/scss/_mixin.scss",
-		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/header/header.vue",
-		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/ratings/ratings.vue",
-		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/seller/seller.vue",
-		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/star/star.vue",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/food/food.vue",
+		"/private/etc/host",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/main.js",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/ratingselect/ratingselect.vue",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/common/js/date.js",
 		"/Users/yangchaoguo/Documents/website/vueStudy/src/common/scss/_icon.scss",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/App.vue",
+		"/Users/yangchaoguo/Documents/website/vueStudy/node_modules/color-convert/conversions.js",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/seller/seller.vue",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/common/scss/_mixin.scss",
+		"/Users/yangchaoguo/hosts",
+		"/Users/yangchaoguo/Documents/website/vueStudy/data.json",
+		"/Users/yangchaoguo/Documents/website/vueStudy/.gitignore",
+		"/Users/yangchaoguo/Documents/website/vueStudy/src/components/star/star.vue",
 		"/Users/yangchaoguo/Documents/website/vueStudy/src/common/scss/_base.scss",
 		"/usr/local/etc/nginx/nginx.conf",
 		"/Users/yangchaoguo/Documents/website/vueStudy/src/common/fonts/iconfont.css",
@@ -782,17 +776,11 @@
 		"/Users/yangchaoguo/Documents/website/zymk/src/static/js/filter.js",
 		"/Users/yangchaoguo/Documents/website/zymk/eslintrc.js",
 		"/Users/yangchaoguo/Documents/website/zymk/src/app/index2.html",
-		"/Users/yangchaoguo/Documents/website/zymk/src/app/6.html",
-		"/Users/yangchaoguo/Documents/website/zymk/src/app/index3.html",
-		"/Users/yangchaoguo/Documents/website/zymk/dist/app/index3.html",
-		"/Users/yangchaoguo/Documents/website/maigouwang/src/static/sass/common.scss",
-		"/Users/yangchaoguo/Documents/website/maigouwang/package.json",
-		"/Users/yangchaoguo/Documents/website/zymk/dist/app/404.html",
-		"/Users/yangchaoguo/Documents/website/zymk/src/static/sass/order.scss"
+		"/Users/yangchaoguo/Documents/website/zymk/src/app/6.html"
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -808,6 +796,23 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"title",
+			"window.bus",
+			"globalVueBus",
+			"$emit",
+			" + 1",
+			"cartcontrol",
+			"info",
+			"cartcontrol",
+			"();\n",
+			"menuWrapper",
+			"price",
+			"transition",
+			"shopcart",
+			"menuWrapper",
+			"BScroll",
+			"translate3d",
+			"balls",
 			"transition",
 			"foods-warper",
 			"catcontrol",
@@ -918,24 +923,7 @@
 			"<strong>1</strong>",
 			"})\n",
 			">\n",
-			"grid_unit_base",
-			"漫画家",
-			"更新记录",
-			";\n",
-			"%'\n",
-			"item swiper-slide",
-			"slide",
-			"horizontal",
-			"   ",
-			"    ",
-			"Swip",
-			"<div class=\"score\">7.4</div>",
-			"<span class=\"score\">.*?</span>",
-			"<div class=\"score\">.*?</div>",
-			"lipsum2",
-			"();",
-			"word",
-			"source"
+			"grid_unit_base"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -967,110 +955,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/components/goods/goods.vue",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7331,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1402,
-								1413
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"colorcode": true,
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 84.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/components/cartcontrol/cartcontrol.vue",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1950,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								584,
-								584
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"colorcode": true,
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/components/shopcart/shopcart.vue",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6894,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3277,
-								3277
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"colorcode": true,
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1559.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],

@@ -85,9 +85,7 @@ export default {
     };
   },
   created() {
-    console.log(window.globalVue, '---');
     this.$nextTick(() => {
-      console.log(window.globalVue, '---');
       window.globalVue.$on('cart-add', (el) => {
         this.drop(el);
       });
