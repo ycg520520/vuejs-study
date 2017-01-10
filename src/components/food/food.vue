@@ -55,7 +55,6 @@
   </transition>
 </template>
 <script>
-import Vue from 'vue';
 import BScroll from 'better-scroll';
 import split from 'components/split/split';
 import cartcontrol from 'components/cartcontrol/cartcontrol';
@@ -114,7 +113,7 @@ export default {
         return;
       }
       window.globalVue.$emit('cart-add', event.target);
-      Vue.set(this.food, 'count', 1);
+      window.globalVue.$set(this.food, 'count', 1);
     },
     selectTypeFn(type) {
       this.selectType = type;
